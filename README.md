@@ -1,2 +1,2 @@
 # memoirs
-towards my learning everyday bit by bit
+towards my learning bit by bit everyday
